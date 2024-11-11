@@ -17,5 +17,3 @@ N = int(input("n kali deret fibonacci = "))
 
 hasil_fibonacci = fibonacci(N)
 print("Deret Fibonacci sebanyak", N, "angka:", hasil_fibonacci)
-
-print("Anda berhasil mengeksekusi kode")
